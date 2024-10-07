@@ -1,0 +1,2 @@
+# SQlite-Studio
+ex02
